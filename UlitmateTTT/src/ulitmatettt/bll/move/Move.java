@@ -6,7 +6,7 @@
 package ulitmatettt.bll.move;
 
 /**
- *--
+ *-----
  * @author chris
  */
 public class Move implements IMove {
